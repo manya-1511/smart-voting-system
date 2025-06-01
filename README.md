@@ -1,0 +1,1 @@
+# smart_voting_system
